@@ -1,0 +1,6 @@
+@RegularAPI_Sample_HostAddress = http://localhost:5282
+
+GET {{RegularAPI_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
